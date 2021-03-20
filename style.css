@@ -564,6 +564,10 @@ section{
 .footer-body span{
     font-size: 1.5em;
     padding: .3em;
+    cursor: pointer;
+}
+.footer-body span:hover{
+    color: #CCA309;
 }
 .footer-body-2 a, .footer-body-3 a{
     color: white;
